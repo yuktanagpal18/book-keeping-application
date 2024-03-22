@@ -14,7 +14,7 @@ The Book-Keeping-App is a web application designed for managing books, allowing 
 - Node.js/Express
 - React/Redux
 - MongoDB/Mongoose
-- Authentication with JWT and bcryptjs
+- Authentication with JWT 
 
 ## Usage
 - Sign up for a new account or log in with existing credentials.
